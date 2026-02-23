@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+llama-index
+openai
+sentence-transformers
+rank-bm25
+deepeval
+pytest
+python-dotenv
